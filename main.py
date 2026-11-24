@@ -1,4 +1,6 @@
-"""Write one vending-machine pickup line to $MAKEFUN_OUTPUT_DIR/entry.txt.
+"""Vending-machine pickup line generator.
+
+Writes one vending-machine pickup line to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
 Reads no environment variable except MAKEFUN_OUTPUT_DIR (default /output).
 Also prints exactly the line, nothing else.
